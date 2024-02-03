@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+}
+figcaption {
+    display: block;
+}
+
+label {
+    font-weight: bold;
+}
+
+
+
+a {
+    color: blue;
+}
+
+fieldset {
+    background-color: whitesmoke;
+}
+
+img {
+    width: 1200px;
+    height: 400px; ;
+}
